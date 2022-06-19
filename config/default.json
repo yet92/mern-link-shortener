@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb://localhost:27017/link-shortener",
+  "jwtSecret": "secret key",
+  "baseURL": "http://localhost:5000"
+}
